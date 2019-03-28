@@ -55,7 +55,7 @@ License: https://www.wowthemes.net/freebies-license/
      border-bottom:1px solid rgba(0,0,0,.125);
      margin-bottom:25px;
      font-weight:700;
-     font-size:1.4rem;
+     font-size:1.2rem;
      margin-bottom:27px;
 }
  .section-title span {
@@ -503,7 +503,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
  .authorpage h1 {
      font-weight:700;
-     font-size:30px;
+     font-size:20px;
 }
  .post-top-meta.authorpage .author-thumb {
      float:none;
@@ -550,6 +550,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
  .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
      font-family: "Nanum Gothic",-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+     font-size: 14px
 }
  .article-post .h1, .article-post .h2, .article-post .h3, .article-post .h4, .article-post .h5, .article-post .h6, .article-post h1, .article-post h2, .article-post h3, .article-post h4, .article-post h5, .article-post h6 {
      font-family: "Nanum Gothic",-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
@@ -584,7 +585,7 @@ License: https://www.wowthemes.net/freebies-license/
  .pointerup {
      margin-bottom:-17px;
      margin-left:49%;
-     font-size:30px;
+     font-size:20px;
 }
  .pointerup i.fa {
      color:#eaeaea;
