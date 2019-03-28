@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to AI Friends!"
-date:   2019-03-27 23:52:07
+date:   2018-12-01 23:52:07
 categories: ai-friends update
 tags: ai-friends update
 featured: true
