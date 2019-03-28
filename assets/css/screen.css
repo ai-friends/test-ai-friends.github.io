@@ -242,7 +242,7 @@ License: https://www.wowthemes.net/freebies-license/
      margin-right:5px;
 }
  .mainheading h1.sitetitle {
-     font-family:Righteous;
+     font-family:"Nanum Gothic Coding",Righteous;
 }
  .mainheading h1.posttitle {
      font-weight:700;
@@ -551,6 +551,7 @@ License: https://www.wowthemes.net/freebies-license/
      font-family: "Nanum Gothic",-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
  .article-post .h1, .article-post .h2, .article-post .h3, .article-post .h4, .article-post .h5, .article-post .h6, .article-post h1, .article-post h2, .article-post h3, .article-post h4, .article-post h5, .article-post h6 {
+     font-family: "Nanum Gothic",-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
      font-weight: 700;
      margin-bottom: 1.5rem;
 }
